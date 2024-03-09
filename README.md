@@ -1,5 +1,11 @@
 # Parambikulam Tiger Reserve
 
+- [Parambikulam Tiger Reserve](#parambikulam-tiger-reserve)
+  - [History](#history)
+  - [Snaps](#snaps)
+  - [Fauna](#fauna)
+  - [Awards](#awards)
+
 Parambikulam Tiger Reserve is located at the Sungam range of hills between the Anaimalai Hills and Nelliampathy Hills. Parambikulam Wildlife Sanctuary was declared as part of the Parambikulam Tiger Reserve on 19 February 2010. Located in the districts of Palakkad and Thrissur in Kerala state. The Tiger Reserve is the home of four different tribes of indigenous peoples including the Kadar, Malasar, Muduvar and Mala Malasar settled in six colonies. Parambikulam Tiger Reserve implements the Project Tiger scheme along with various other programs of the Government of India and the Government of Kerala.
 
 ## History
